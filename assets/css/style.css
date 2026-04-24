@@ -1,0 +1,40 @@
+body {
+    background: #f4f7fb;
+    color: #1c2434;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+.card {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1.5rem rgba(15, 23, 42, 0.08);
+}
+
+.table thead th {
+    white-space: nowrap;
+}
+
+.hero-card {
+    background: linear-gradient(135deg, #0f4c81, #2e86ab);
+    color: #fff;
+}
+
+.timetable-cell {
+    min-width: 170px;
+    font-size: 0.9rem;
+}
+
+.small-muted {
+    color: #64748b;
+    font-size: 0.85rem;
+}
+
+.stat-card {
+    background: #fff;
+    border-left: 4px solid #0f4c81;
+}
+
